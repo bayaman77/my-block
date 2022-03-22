@@ -21,7 +21,7 @@ export const popular_posts = [
     {
         imageUrl:"https://www.w3schools.com/w3images/workshop.jpg",
         title:"Lorem",
-        desc:"Sed mattis nunc"
+        desc:"Sed mattis nunc"  
     },
     {
         imageUrl:"https://www.w3schools.com/w3images/gondol.jpg",

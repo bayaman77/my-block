@@ -1,0 +1,16 @@
+.btn {
+  width: 200px;
+  height: 40px;
+  margin-left: 500px;
+  border-radius: 5px;
+}
+
+.atakhan {
+  width: 99%;
+  height: 60px;
+  font-size: 17px;
+  background-color: #dadada;
+  margin: 15px;
+  padding: 5px;
+  border-radius: 5px;
+}
